@@ -1,0 +1,1572 @@
+[
+  {
+    "name": "2.2",
+    "releases": [
+      {
+        "name": "2.2.4",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.2.4_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.2.4_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.2.4-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.2.4-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.2.4.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.2.2",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.2.2_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.2.2_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.2.2-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.2.2-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.2.2.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.2.0",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.2.0_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.2.0_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.2.0-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.2.0-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.2.0.tar.xz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2.0",
+    "releases": [
+      {
+        "name": "2.0.16",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.16_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.16_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.16-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.16-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.16.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.14",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.14_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.14_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.14-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.14-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.14.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.12",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.12_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.12_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.12-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.12-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.12.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.10",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.10_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.10_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.10-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.10-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.10.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.8",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.8_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.8_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.8-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.8-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.8.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.6",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.6_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.6_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.6-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.6-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.6.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.4",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.4_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.4_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.4-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.4-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.4.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.2",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.2_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.2_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.2-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.2-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.2.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.0.0",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.0_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.0_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-2.0.0-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-2.0.0-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-2.0.0.tar.xz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "1.6",
+    "releases": [
+      {
+        "name": "1.6.20",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.20_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.20_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.20-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.20-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.20.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.18",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.18_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.18_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.18-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.18-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.18.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.16",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.16_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.16_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.16-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.16-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.16.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.14",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.14_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.14_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.14-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.14-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.14.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.12",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.12_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.12_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.12-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.12-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.12.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.10",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.10_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.10_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.10-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.10-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.10.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.8",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.8_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.8_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.8-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.8-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.8.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.6",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.6_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.6_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.6-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.6-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.6.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.4",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.4_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.4_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.4-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.4-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.4.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.2",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.2_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.2_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.2-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.2-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.2.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.6.0",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.0_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.0_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.6.0-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.6.0-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.6.0.tar.xz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "1.4",
+    "releases": [
+      {
+        "name": "1.4.8",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.8_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.8_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.8-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.8-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.4.8.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.4.6",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.6_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.6_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.6-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.6-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.4.6.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.4.4",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.4_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.4_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.4-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.4-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.4.4.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.4.2",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.2_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.2_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.2-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.2-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.4.2.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.4.0",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.0_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.0_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.4.0-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.4.0-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.4.0.tar.xz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "1.2",
+    "releases": [
+      {
+        "name": "1.2.18",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.18_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.18_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.18-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.18-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.18.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.16",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.16_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.16_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.16-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.16-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.16.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.14",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.14_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.14_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.14-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.14-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.14.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.12",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.12_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.12_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.12-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.12-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.12.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.10",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.10_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.10_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.10-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.10-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.10.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.8",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.8_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.8_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.8-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.8-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.8.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.6",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.6_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.6_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.6-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.6-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.6.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.4",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.4_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.4_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.4-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.4-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.4.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.2",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.2_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.2_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.2-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.2-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.2.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2.0",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.0_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.0_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.2.0-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.2.0-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.2.0.tar.xz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "1.0",
+    "releases": [
+      {
+        "name": "1.0.10",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.10_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.10_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.10-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.10-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.0.10.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.0.8",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.8_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.8_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.8-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.8-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.0.8.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.0.6",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.6_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.6_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.6-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.6-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.0.6.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.0.4",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.4_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.4_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.4-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.4-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.0.4.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.0.2",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.2_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.2_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.2-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.2-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.0.2.tar.xz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.0.0",
+        "platforms": [
+          {
+            "name": "windows",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.0_x64.zip"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.0_x32.zip"
+              }
+            ]
+          },
+          {
+            "name": "unix",
+            "downloads": [
+              {
+                "name": "64-bit",
+                "url": "/download/nim-1.0.0-linux_x64.tar.xz"
+              },
+              {
+                "name": "32-bit",
+                "url": "/download/nim-1.0.0-linux_x32.tar.xz"
+              },
+              {
+                "name": "source",
+                "url": "/download/nim-1.0.0.tar.xz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
